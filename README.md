@@ -85,8 +85,8 @@ Run the program and choose RTL viewer to get RTL realization.
 ### PROGRAM 
 ```
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: SRIJITH R
-RegisterNumber: 212221240054
+Developed by: Sai Darshan G
+RegisterNumber: 212221240047
 ```
 ### ENCODER:
 ```
